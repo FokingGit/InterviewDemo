@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--标题栏颜色-->
+    <color name="colorPrimary">#DD433B</color>
+    <!--通知栏颜色-->
+    <color name="colorPrimaryDark">#DD433B</color>
+    <!--控件选中之后的颜色-->
+    <color name="colorAccent">#DD433B</color>
+</resources>

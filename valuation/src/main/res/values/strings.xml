@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Valuation</string>
+    <string name="title_home">车辆评估</string>
+    <string name="title_dashboard">我</string>
+</resources>
