@@ -10,5 +10,4 @@ public abstract class BaseStateFragment extends BaseFragment {
     public int getFragmentView() {
         return R.layout.fragment_base_state;
     }
-
 }
